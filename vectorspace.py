@@ -1,3 +1,7 @@
+#The whole project is:
+#https://github.com/jreijrink/eventbook/blob/master/querying/vectorspace.py
+#Stefanie-Lyu was my first github account
+
 from common.models import Document, Token 
 from mining.decomposition import decompose
 from common.tokenizer import getTokensFromText
